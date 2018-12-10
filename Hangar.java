@@ -10,5 +10,4 @@ public class Hangar {
 
 		System.out.println(boat.doStuff());
 	}
-
 }
